@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\mayra\source\repos\Parcial 3\Parcial 3\Source.cpp(111,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\mayra\source\repos\Parcial 3\Parcial 3\Source.cpp(120,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\mayra\source\repos\Parcial 3\Parcial 3\Source.cpp(135,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Parcial 3.vcxproj -> C:\Users\mayra\source\repos\Parcial 3\Debug\Parcial 3.exe
